@@ -389,3 +389,15 @@ WARNING: A connection to https://repo.maven.apache.org/ was leaked. Did you forg
 2019-04-29 09:07:40,046 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
 2019-04-30 09:24:08,754 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
 2019-04-30 09:24:08,757 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-04-30 10:53:16,658 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:53:16,661 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:53:16,662 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:56:16,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:56:16,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:56:16,448 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:58:31,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:58:31,520 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 10:58:31,520 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 11:13:02,170 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 11:13:02,192 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2019-04-30 11:25:57,952 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException

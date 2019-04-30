@@ -4025,3 +4025,6 @@ Binding(CTRL+F4,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.scala-ide.sdt.core 1 0 2019-04-30 10:59:17.183
+!MESSAGE Timeout while resolving hyperlink in /home/spark/workspace/BasicStatisticsSpark/src/main/scala/run/runBasicStatistics.scala at: offset: 3097, length: 0
